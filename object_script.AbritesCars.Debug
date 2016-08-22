@@ -1,0 +1,14 @@
+INPUT(
+./debug\main.o
+./debug\mainview.o
+./debug\sqldriver.o
+./debug\smtpdriver.o
+./debug\smtp.o
+./debug\sendthread.o
+./debug\qrc_resources.o
+./debug\moc_mainview.o
+./debug\moc_sqldriver.o
+./debug\moc_smtpdriver.o
+./debug\moc_smtp.o
+./debug\moc_sendthread.o
+);
